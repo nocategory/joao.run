@@ -1,0 +1,13 @@
+{
+  "baseUrl": "joao.run",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "nocategory",
+  "license": "MIT",
+  "homepage": "https://github.com/nocategory/joao.run#readme",
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
